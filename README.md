@@ -174,27 +174,13 @@ mint.html
 ```
 
 ## OUTPUT
-<<<<<<< HEAD
 ![alt text](6.png)
 ![alt text](1.png)
 ![alt text](5.png)
 ![alt text](2.png)
 ![alt text](4.png)
 ![alt text](3.png)
-=======
 
-![6](https://github.com/Samakas/NearMe/assets/154731670/1c30c930-4a94-42c0-bb08-4ddfbb7499fc)
-![1](https://github.com/Samakas/NearMe/assets/154731670/0de221ff-9579-48d2-96d6-70e2a988bafc)
-![5](https://github.com/Samakas/NearMe/assets/154731670/27c26971-8b45-41d5-9124-9b62f51abc34)
-![2](https://github.com/Samakas/NearMe/assets/154731670/1e190cba-cb45-41d5-a164-3b7c20454bae)
-![4](https://github.com/Samakas/NearMe/assets/154731670/06bd22ca-cba3-473a-8438-c1c0c75a807d)
-![3](https://github.com/Samakas/NearMe/assets/154731670/153043db-1ff2-4c6b-a3b1-58dd4302759a)
-
-
-
-
-
->>>>>>> 0c48cd622597836bc068609bbd1373f3429a2c1d
 
 ## RESULT
 The program for implementing image maps using HTML is executed successfully.

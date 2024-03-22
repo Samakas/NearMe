@@ -25,6 +25,7 @@ Write HTML programs for all the regions identified.
 Execute the programs and publish them.
 
 ## CODE
+
 ```
 sam.html
 
@@ -170,10 +171,10 @@ mint.html
         </p>
     </body>
 </html>
+
 ```
 
 ## OUTPUT
-
 ![alt text](6.png)
 ![alt text](1.png)
 ![alt text](5.png)
